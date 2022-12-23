@@ -1,0 +1,15 @@
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\bin\Debug\net6.0\project 1 prime numbers.exe
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\bin\Debug\net6.0\project 1 prime numbers.deps.json
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\bin\Debug\net6.0\project 1 prime numbers.runtimeconfig.json
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\bin\Debug\net6.0\project 1 prime numbers.dll
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\bin\Debug\net6.0\project 1 prime numbers.pdb
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.csproj.AssemblyReference.cache
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.AssemblyInfoInputs.cache
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.AssemblyInfo.cs
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.csproj.CoreCompileInputs.cache
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.dll
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\refint\project 1 prime numbers.dll
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.pdb
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\project 1 prime numbers.genruntimeconfig.cache
+F:\tasks section 7\project 1 prime numbers\project 1 prime numbers\obj\Debug\net6.0\ref\project 1 prime numbers.dll
